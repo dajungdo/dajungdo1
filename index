@@ -73,7 +73,7 @@ body {
 
 .title2 {
     position: fixed;
-    top: 50vh;
+    top: 10vh;
     left: 2vh;
     width: 100%;
     color: white;
